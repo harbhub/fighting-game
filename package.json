@@ -1,0 +1,13 @@
+{
+  "name": "fighting-game",
+  "version": "0.0.1a",
+  "description": "Fighting game for js13kgames competition",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/coderarity/fighting-game"
+  }
+}
